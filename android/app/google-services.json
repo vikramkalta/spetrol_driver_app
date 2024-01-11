@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22283803519",
+    "project_id": "spetrol-driver-app",
+    "storage_bucket": "spetrol-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22283803519:android:ae76105f385238b55b584a",
+        "android_client_info": {
+          "package_name": "com.spetrol_driver_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22283803519-gggobdnds1dqb935n1ilif1sbp1ugdc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_aCrtVjCyMoxmSeoDFt1q74L1nd5mFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22283803519-gggobdnds1dqb935n1ilif1sbp1ugdc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
